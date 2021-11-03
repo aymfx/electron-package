@@ -1,0 +1,6 @@
+{
+    "eslint.enable": true,
+    "editor.tabSize": 2,
+    "eslint.validate": ["javascript", "javascriptreact", "vue", "html", "jsx"],
+    "editor.codeActionsOnSave": { "source.fixAll.tslint": true,"source.fixAll": true,"source.fixAll.eslint": true},
+}

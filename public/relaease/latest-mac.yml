@@ -1,0 +1,11 @@
+version: 0.0.3
+files:
+  - url: bgy-pos-0.0.3-mac.zip
+    sha512: M7NyCOmL6I5JUSq4hyHyiEqKFLz0jwG9KpRBODSjJQA63pcrRXVwz1GNXbCTb/lhyMuTSLBRfqgm+UYZSK4ffg==
+    size: 77677370
+  - url: bgy-pos-0.0.3.dmg
+    sha512: LzlX5t1MXrPCWlFLNKrLjFj0br03inuqP9lbOkZK9YScfeWu1xD76NJXIgXr/E9qhm8q9y5SCWEmb9bmYaV0xw==
+    size: 81075780
+path: bgy-pos-0.0.3-mac.zip
+sha512: M7NyCOmL6I5JUSq4hyHyiEqKFLz0jwG9KpRBODSjJQA63pcrRXVwz1GNXbCTb/lhyMuTSLBRfqgm+UYZSK4ffg==
+releaseDate: '2021-11-03T06:28:18.666Z'
